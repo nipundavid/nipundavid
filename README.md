@@ -1,16 +1,39 @@
-## Hi there 👋
+# Nipun David
 
-<!--
-**nipundavid/nipundavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Architect & Builder
 
-Here are some ideas to get you started:
+Building intelligent systems across:
+- GenAI
+- Agents
+- RAG
+- Distributed Systems
+- Human Interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+- Multi-agent orchestration
+- Enterprise AI systems
+- AI evaluations
+- Text-to-SQL
+- Guardrails & safety
+
+---
+
+## Featured Systems
+Coming soon.
+
+---
+
+## Writing
+Coming soon.
+
+---
+
+## Journey
+J2ME Games → XR → Metaverse → GenAI Systems
+
+---
+
+## Contact
+LinkedIn | Website | Email
